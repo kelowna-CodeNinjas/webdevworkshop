@@ -1,2 +1,2 @@
 # webdevworkshop
-Kelowna Code Ninjas web development project
+Kelowna Code Ninjas web development workshop
