@@ -1,0 +1,29 @@
+h1{
+  font-size: 30px;
+}
+body{
+  background-color: lightblue;
+}
+p{
+  font-style: italic;
+  text-decoration: underline;
+}
+#intro{
+  background-color: darkgrey;
+  border: 3px dotted black;
+  width: 400px;
+}
+#part1{
+  background-color: aqua;
+  border: 3px solid black;
+  width: 400px;
+}
+img{
+  width: auto;
+  height: auto;
+}
+.bodyText{
+  font-style: Serif;
+  text-decoration: none;
+  color: red;
+}
